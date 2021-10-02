@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\bin\Debug\net5.0\sahovska_tabla_broj_crnih_polja.exe
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\bin\Debug\net5.0\sahovska_tabla_broj_crnih_polja.deps.json
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\bin\Debug\net5.0\sahovska_tabla_broj_crnih_polja.runtimeconfig.json
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\bin\Debug\net5.0\sahovska_tabla_broj_crnih_polja.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\bin\Debug\net5.0\sahovska_tabla_broj_crnih_polja.dll
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\bin\Debug\net5.0\ref\sahovska_tabla_broj_crnih_polja.dll
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\bin\Debug\net5.0\sahovska_tabla_broj_crnih_polja.pdb
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\obj\Debug\net5.0\sahovska_tabla_broj_crnih_polja.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\obj\Debug\net5.0\sahovska_tabla_broj_crnih_polja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\obj\Debug\net5.0\sahovska_tabla_broj_crnih_polja.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\obj\Debug\net5.0\sahovska_tabla_broj_crnih_polja.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\obj\Debug\net5.0\sahovska_tabla_broj_crnih_polja.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\obj\Debug\net5.0\sahovska_tabla_broj_crnih_polja.dll
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\obj\Debug\net5.0\ref\sahovska_tabla_broj_crnih_polja.dll
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\obj\Debug\net5.0\sahovska_tabla_broj_crnih_polja.pdb
+C:\Users\Nikola\source\repos\sahovska_tabla_broj_crnih_polja\sahovska_tabla_broj_crnih_polja\obj\Debug\net5.0\sahovska_tabla_broj_crnih_polja.genruntimeconfig.cache

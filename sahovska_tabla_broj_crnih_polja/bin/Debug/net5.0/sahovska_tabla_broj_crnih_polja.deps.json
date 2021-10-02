@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sahovska_tabla_broj_crnih_polja/1.0.0": {
+        "runtime": {
+          "sahovska_tabla_broj_crnih_polja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sahovska_tabla_broj_crnih_polja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
